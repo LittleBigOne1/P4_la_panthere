@@ -8,38 +8,66 @@
 .black{
     color: #000000;
 }
-.citation {
+
+.voffset-lg{
+padding-bottom: 50px;
+}
+
+.citation{
+margin-bottom: 0;
+}
+
+.citation,figcaption,cite {
     width: 54%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 20px;
 
 }
 
-.italic {
-    font-style: italic;
-    color: #333333;
+figcaption,cite {
+    color: #696868;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0;
+    margin-top: 0;
 }
 
-.presentation p,
-.description2 p,
+.presentation p{
+    text-align: center;
+    font-size: 2rem;
+    color: #696868;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+.description2 p
 .citation p {
     font-size: 2rem;
 }
-
+.description2 p{
+    text-align: center;
+    font-size: 2rem !important;
+    color: #484848;
+}
 .txt-bloc3 {
     color: rgb(0, 0, 0);
 
 }
 
-.txt-bloc5 p {
-    color: white;
+.row .mg-md{
+    color: #000000 !important;
+}
+
+.row h3{
+    color: white !important;
     font-size: 2rem;
-    z-index: 1111;
     text-align: center;
+}
 
-
+#img-4{
+    margin-bottom: 14px;
 }
 
 form,
