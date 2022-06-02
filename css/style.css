@@ -78,7 +78,10 @@ address {
 footer {
     color: #000000;
 }
+.fa{
+    width: 48px;
 
+}
 .footer_links {
     padding-left: 20px;
 
@@ -579,7 +582,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px !important;
+    font-size: 48px !important;
 }
 
 .icon-lg {
@@ -806,6 +809,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    padding-top: 10px;
+
 }
 
 h2 {
